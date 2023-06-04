@@ -23,7 +23,7 @@ This project provides a convenient way to set up and start an `RTSP` (Real-Time 
 4. To stop the server, press Enter when prompted.
 
 ### aqueo_auto.sh (Autostarting Server)
-1. Make sure you have previously run `aqueo_auto.sh` to create the configuration file.
+1. Make sure you have previously run `aqueo_temp.sh` to create the configuration file.
 2. Add `aqueo_auto.sh` to your system's startup process (e.g., using init.d, systemd, or startup applications). Refer to the documentation for your specific operating system.
 3. The RTSP server will start automatically during system startup using the previously configured parameters.
 
